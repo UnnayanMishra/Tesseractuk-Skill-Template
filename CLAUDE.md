@@ -24,10 +24,10 @@ and 25+ production-grade projects shipped. Concretely:
    re-derive decisions or thinking that were already done and recorded.
 2. Check `.claude/skills/` for an existing skill that matches the task. If one exists,
    follow it instead of improvising a fresh approach.
-3. Check the shared knowledge-base repo at `~/knowledge-base/` (or wherever it's
-   cloned locally) for an existing relevant `.md` file before researching or
-   brainstorming from scratch. If nothing relevant exists, do fresh research, then
-   propose adding a new file there so it isn't researched twice.
+3. Check the shared knowledge-base repo at `~/Documents/Skills-Library/` (local
+   clone of github.com/UnnayanMishra/Skills) for an existing relevant `.md` file
+   before researching or brainstorming from scratch. If nothing relevant exists, do
+   fresh research, then propose adding a new file there so it isn't researched twice.
 
 # Repetitive Tasks -> Skills
 
