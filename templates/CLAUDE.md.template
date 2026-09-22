@@ -1,0 +1,14 @@
+# <Project Name>
+
+This project follows the standard workflow defined in the global `~/.claude/CLAUDE.md`
+(senior-dev persona, skill-first workflow, project-memory rules, knowledge-base search).
+Project-specific notes go below.
+
+## Read before starting work
+- docs/architecture.md
+- docs/decisions.md
+- docs/tasks.md
+- docs/context.md (most recent entries at the bottom)
+
+## Project-specific conventions
+(fill in as they emerge)

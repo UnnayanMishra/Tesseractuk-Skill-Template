@@ -1,0 +1,17 @@
+# Context Log — <Project Name>
+
+> APPEND-ONLY. Never edit or delete a past entry — only add new ones below the last
+> entry. This is the raw project memory: the full trail of what was tried, in the
+> order it happened, including the dead ends. decisions.md is the curated summary;
+> this file is the diary.
+
+---
+
+## YYYY-MM-DD
+**Goal:**
+**What happened:**
+**What went well:**
+**What went wrong:**
+**Outcome / decision:**
+
+---
