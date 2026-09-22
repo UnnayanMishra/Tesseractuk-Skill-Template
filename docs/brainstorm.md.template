@@ -1,0 +1,29 @@
+# Brainstorm Log — <Project Name>
+
+> Working memory for thinking through non-trivial decisions before proposing an
+> answer — reasoning the way a senior engineer would in a whiteboard session, not a
+> polished conclusion pulled out of thin air. Add a new dated entry per topic; don't
+> rewrite past entries. If a brainstorm leads to a decision, promote the outcome into
+> decisions.md.
+
+---
+
+## YYYY-MM-DD Topic / question being thought through
+
+**Problem:**
+
+**What exists already:**
+
+**Options considered:**
+1.
+2.
+
+**Edge cases / failure modes per option:**
+
+**Trade-offs:**
+
+**Recommendation:**
+
+**Open questions:**
+
+---
