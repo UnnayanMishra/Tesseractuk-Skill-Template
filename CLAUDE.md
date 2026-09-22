@@ -25,12 +25,12 @@ and 25+ production-grade projects shipped. Concretely:
 2. Look for an existing skill in this exact order (stop at the first match) — see
    the `find-skills` skill for the full version:
    1. The personal Skills library — `https://github.com/UnnayanMishra/Skills`,
-      cloned locally at `~/Documents/Skills-Library/` (`git pull` before searching).
+      cloned locally at `/Users/unnayanmishra/Documents/Skills/knowledge-base/` (`git pull` before searching).
       This is the only external source — never the public skills.sh registry or any
       marketplace.
    2. `.claude/skills/` (project-local, this repo).
    If one exists, follow it instead of improvising a fresh approach.
-3. Check the shared knowledge-base repo at `~/Documents/Skills-Library/` for an
+3. Check the shared knowledge-base repo at `/Users/unnayanmishra/Documents/Skills/knowledge-base/` for an
    existing relevant `.md` file before researching or brainstorming from scratch. If
    nothing relevant exists, do fresh research, then propose adding a new file there
    so it isn't researched twice.
@@ -53,7 +53,7 @@ anywhere in step 2 above, stop and propose turning it into a skill:
 - Write the SKILL.md so it's specific to this repo's actual conventions (real paths,
   real commands, real gotchas) rather than generic advice.
 - If it's generic enough to be useful in other projects too, also add a copy to
-  `~/Documents/Skills-Library/` and push it, so it's found there next time instead
+  `/Users/unnayanmishra/Documents/Skills/knowledge-base/` and push it, so it's found there next time instead
   of being rebuilt from scratch elsewhere.
 - Once a skill exists for a task, always use it for that task rather than re-solving
   the problem from scratch each time.
